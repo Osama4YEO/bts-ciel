@@ -15,3 +15,7 @@ for(int j=0; j<10; j++)
   print(i + j);
 }
 ```
+
+```sql
+select * from User where User.id = 0;
+```
